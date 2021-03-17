@@ -1,5 +1,4 @@
-#I Have Not Been taking Python Seriously Till tis time But now i realise that python is impotant for mr seriously 
-#this time But now i realise that python is impotant for me seriously
+
 
 print("Patient Id ")
 
