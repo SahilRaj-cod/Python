@@ -1,3 +1,8 @@
+print("Hi! welcome Back")
+print("If You Don't know the command write help after >")
+
+
+
 command = ""
 while True:
         command = input("> ").lower()
@@ -16,7 +21,9 @@ Commands :
                 
         elif command == "quit":
             break    
+        
         else:
             print("Sorry I Don't understand")    
 
          
+    
